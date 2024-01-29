@@ -5,7 +5,7 @@
 *.so
 *.dylib
 build/
-.storage_provider_cli_history
+.storage_provider_cli_history=44
 
 # OSX trash
 .DS_Store
